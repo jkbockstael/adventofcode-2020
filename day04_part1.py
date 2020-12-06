@@ -1,4 +1,4 @@
-# Advent of Code 2020 - Day 4: Passport Processing
+# Advent of Code 2020 - Day 4 - Passport Processing
 # https://adventofcode.com/2020/day/4
 
 import sys
